@@ -9,5 +9,8 @@
 <body>
 <h1>Menghubungkan folder git local ke github</h1>
 <p>Paragraf coba</p>
+<ul>
+<li>tedt</li>
+</ul>
 </body>
 </html>
